@@ -86,10 +86,16 @@
 
 <div align="center">
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cshrey0123&show_icons=true&locale=en&layout=compact" alt="cshrey0123" /></p>
-  </div>
- <br><br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cshrey0123&" alt="cshrey0123" /></p>
+ <br>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cshrey0123&show_icons=true&locale=en" alt="cshrey0123" /></p>
 
+</div>
+
+###
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cshrey0123&" alt="cshrey0123" /></p>
+</div>
 
 ###
 
